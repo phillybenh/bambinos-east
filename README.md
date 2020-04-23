@@ -1,3 +1,8 @@
+**Welcome to BambinosEast**
+
+*Find your favorite Cocktail and enjoy the decor*
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
